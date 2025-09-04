@@ -22,7 +22,8 @@ Delays in detection can risk astronaut safety.
 - YOLO format annotations  
 
 📑 **Config file:** [config.yaml](config.yaml)  
-📦 **Dataset link:** [Download Here]([https://storage.googleapis.com/duality-public-share/Datasets/Hackathon_Dataset.zip])  
+📦 **Dataset link:** [Download Here]([https://storage.googleapis.com/duality-public-share/Datasets/Hackathon_Dataset.zip])
+
 
 
 
