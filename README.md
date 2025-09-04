@@ -49,13 +49,10 @@ Delays in detection can risk astronaut safety.
 ![Training Results](results.png)  
 
 **Confusion Matrix**  
-![Confusion Matrix](confusion_matrix.jpg)  
+![Confusion Matrix](confusion_matrix.png)  
 
 **Precision–Recall Curve**  
 ![PR Curve](BoxP_curve.jpg)  
-
-**Sample Predictions**  
-<img src="predictions/pred1.jpg" width="350"> <img src="predictions/pred2.jpg" width="350">  
 
 
 
