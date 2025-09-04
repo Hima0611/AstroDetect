@@ -33,7 +33,7 @@ Delays in detection can risk astronaut safety.
 - **Evaluation Metrics:** mAP@0.5, Precision, Recall  
 - **Deployment:** Hugging Face Spaces (Gradio app)  
 
-📓 Training Notebook: [Open in Colab](https://colab.research.google.com/github/your-username/AstroDetect/blob/main/training.ipynb)  
+📓 Training Notebook: [Open in Colab]([https://colab.research.google.com/drive/1HiH7Mcm8tQqGqDmbJhLaFZ3Sbj857pRP])  
 
 
 
@@ -52,7 +52,7 @@ Delays in detection can risk astronaut safety.
 ![Confusion Matrix](confusion_matrix.png)  
 
 **Precision–Recall Curve**  
-![PR Curve](BoxP_curve.jpg)  
+![PR Curve](BoxP_curve.png)  
 
 
 
