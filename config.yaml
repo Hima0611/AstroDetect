@@ -1,0 +1,15 @@
+# YOLOv8 dataset config file
+
+# Root path to dataset in Google Drive
+path: /content/drive/MyDrive/MyDrive/Exercise3/dataset
+
+# Dataset splits
+train: train/images
+val: val/images
+test: test/images   # optional
+
+# Number of classes
+nc: 3
+
+# Class names
+names: ["FireExtinguisher", "ToolBox", "OxygenTank"]
