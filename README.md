@@ -22,7 +22,7 @@ Delays in detection can risk astronaut safety.
 - YOLO format annotations  
 
 📑 **Config file:** [config.yaml](config.yaml)  
-📦 **Dataset link:** [Download Here]([https://drive.google.com/your_dataset_link](https://storage.googleapis.com/duality-public-share/Datasets/Hackathon_Dataset.zip))  
+📦 **Dataset link:** [Download Here]([https://storage.googleapis.com/duality-public-share/Datasets/Hackathon_Dataset.zip])  
 
 
 
@@ -52,7 +52,7 @@ Delays in detection can risk astronaut safety.
 ![Confusion Matrix](confusion_matrix.png)  
 
 **Precision–Recall Curve**  
-![PR Curve](BoxP_curve.png)  
+![PR Curve](BoxR_curve.png)  
 
 
 
@@ -75,8 +75,7 @@ Delays in detection can risk astronaut safety.
 ## 🌐 Live Demo  
 Try the app here 👉 [AstroDetect on Hugging Face](https://huggingface.co/spaces/hima1611/space_station_detection)  
 
-Screenshot of the app:  
-![App Screenshot](app_screenshot.png)  
+
 
 
 
